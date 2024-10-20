@@ -1,0 +1,14 @@
+C:\Users\junio\ap2_19\obj\Debug\net8.0\ap2_19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\ap2_19\obj\Debug\net8.0\ap2_19.AssemblyInfoInputs.cache
+C:\Users\junio\ap2_19\obj\Debug\net8.0\ap2_19.AssemblyInfo.cs
+C:\Users\junio\ap2_19\obj\Debug\net8.0\ap2_19.csproj.CoreCompileInputs.cache
+C:\Users\junio\ap2_19\bin\Debug\net8.0\ap2_19.exe
+C:\Users\junio\ap2_19\bin\Debug\net8.0\ap2_19.deps.json
+C:\Users\junio\ap2_19\bin\Debug\net8.0\ap2_19.runtimeconfig.json
+C:\Users\junio\ap2_19\bin\Debug\net8.0\ap2_19.dll
+C:\Users\junio\ap2_19\bin\Debug\net8.0\ap2_19.pdb
+C:\Users\junio\ap2_19\obj\Debug\net8.0\ap2_19.dll
+C:\Users\junio\ap2_19\obj\Debug\net8.0\refint\ap2_19.dll
+C:\Users\junio\ap2_19\obj\Debug\net8.0\ap2_19.pdb
+C:\Users\junio\ap2_19\obj\Debug\net8.0\ap2_19.genruntimeconfig.cache
+C:\Users\junio\ap2_19\obj\Debug\net8.0\ref\ap2_19.dll
