@@ -4,7 +4,7 @@ Video do programa:
 https://drive.google.com/drive/folders/1A3fODmR3QkedPKMHAuVHGjy9NFM6GZA0?usp=sharing
 
 Texto academico:
-https://docs.google.com/document/d/1GNA_aEkCZOHGNw6W4BELPzTryKLp2beBXl2fBUT_uA/edit?usp=drivesdk
+https://docs.google.com/document/d/1GNA_a-EkCZOHGNw6W4BELPzTryKLp2beBXl2fBUT_uA/edit?usp=drivesdk
 
 AVISO
 
